@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/import_tool" >
+        <file alias="import-icon.png">view/icons/import-icon.png</file>
+    </qresource>
+</RCC>
